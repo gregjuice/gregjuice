@@ -10,3 +10,6 @@ Code.app
 gregjuice/gregjuice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ 
+Also look at this need help with this please
+Visual Studio Code.appCode.appCode.appCode.app/Contents/ResourcesCode.app/Contents/ResourcesUse the edit icon to pin, add or delete clips.
